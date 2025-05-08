@@ -55,7 +55,7 @@ Driftel is an open-source project to simulate or build a lightweight delivery dr
 ## 🛠️ Getting Started
 
 1. Clone the repo:
-   ```bash
+```bash
    git clone https://github.com/sosyalrobot/Driftel.git
    cd Driftel
 ````
